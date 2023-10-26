@@ -83,7 +83,7 @@ const contagemRegressiva = () => {
         zerar()
         return
     }
- 
+    '   '
     tempoDecorridoEmSegundos -= 1
     mostrarTempo()
 }

@@ -79,7 +79,7 @@ longoBt.addEventListener('click', () => {
 //temporizador
 const contagemRegressiva = () => {
     if(tempoDecorridoEmSegundos <= 0){
-        //alert('tempo finalizado')
+        alert('tempo finalizado')
         zerar()
         return
     }
